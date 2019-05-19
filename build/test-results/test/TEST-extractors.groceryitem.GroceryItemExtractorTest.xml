@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="extractors.groceryitem.GroceryItemExtractorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-05-19T17:01:33" hostname="DESKTOP-07B4ARM" time="1.251">
-  <properties/>
-  <testcase name="assertPrintItemDetailsFromUrl()" classname="extractors.groceryitem.GroceryItemExtractorTest" time="0.546"/>
-  <testcase name="assertPrintItemDetailsFromUrlIsValid()" classname="extractors.groceryitem.GroceryItemExtractorTest" time="0.705"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

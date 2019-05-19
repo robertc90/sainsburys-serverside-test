@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="model.GroceryItemTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-05-19T17:01:34" hostname="DESKTOP-07B4ARM" time="0.007">
-  <properties/>
-  <testcase name="assertGroceryItemMapsToJsonWithoutCalories()" classname="model.GroceryItemTest" time="0.005"/>
-  <testcase name="assertGroceryItemMapsToJson()" classname="model.GroceryItemTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
