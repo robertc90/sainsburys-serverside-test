@@ -4,11 +4,11 @@ sainsburys-serverside-test is a Java Application that scrapes a portion of a the
 
 ## Tech used
 
-Java 8
-Gradle
-Jsoup
-Gson
-JUnit 5
+* Java 8
+* Gradle
+* Jsoup
+* Gson
+* JUnit 5
 
 ## Usage
 
