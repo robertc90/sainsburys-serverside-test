@@ -33,7 +33,7 @@ public class GroceryItemTest {
         groceryItem.setUnitPrice(5.0);
 
         String json = gson.toJson(groceryItem);
-        Assertions.assertEquals(json, EXPECTED_JSON);
+        Assertions.assertEquals(EXPECTED_JSON, json);
     }
 
     @Test
@@ -45,7 +45,7 @@ public class GroceryItemTest {
         groceryItem.setUnitPrice(5.0);
 
         String json = gson.toJson(groceryItem);
-        Assertions.assertEquals(json, EXPECTED_JSON_NO_CALORIES);
+        Assertions.assertEquals(EXPECTED_JSON_NO_CALORIES, json);
     }
 
 }

@@ -10,8 +10,8 @@ public class TotalCostTest {
     @DisplayName("Asserts that when creating a total cost item the correct calculation is made for gross and vat")
     public void assertTotalCostCalculationIsCorrect() {
         TotalCost totalCost = new TotalCost(5.0);
-        Assertions.assertEquals(totalCost.getGross(), 5.0);
-        Assertions.assertEquals(totalCost.getVat(), 0.83);
+        Assertions.assertEquals(5.0, totalCost.getGross());
+        Assertions.assertEquals(0.83, totalCost.getVat());
     }
 
 }
